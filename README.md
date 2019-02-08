@@ -1,4 +1,4 @@
 # Binder Botebooks
 A few Jupyter notebooks for fun and profit
 
-Fill in the fields to see the markdown badge snippet.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/git@github.com:andyczerwonka/binder.git/master)
